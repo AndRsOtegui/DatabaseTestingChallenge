@@ -1,7 +1,7 @@
 ## Database Testing challenge
 This is a Maven project that demonstrates the usage of Java Persistence API (JPA) and Hibernate for working with a MySQL database. It serves as a basic template for setting up a Java project with JPA and Hibernate.
 
-#Dependencies
+# Dependencies
 The project includes the following dependencies:
 
 Hibernate Core (6.1.2.Final): Hibernate is an ORM (Object-Relational Mapping) framework that simplifies database interactions in Java applications.
@@ -16,5 +16,9 @@ SLF4J API (2.0.9): Simple Logging Facade for Java (SLF4J) provides a common inte
 
 Logback Classic (1.4.11): Logback is a logging framework compatible with SLF4J, and Logback Classic is its implementation.
 
-#Java Version
+# Java Version
 This project is configured to be compatible with Java 11. Ensure that you have Java 11 or a compatible version installed to run this project.
+
+#MySQL 
+
+download and execute the sql files in you MySQL workbench and change the persistence settings as necesary
