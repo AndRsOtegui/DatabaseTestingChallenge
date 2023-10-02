@@ -19,6 +19,6 @@ Logback Classic (1.4.11): Logback is a logging framework compatible with SLF4J, 
 # Java Version
 This project is configured to be compatible with Java 11. Ensure that you have Java 11 or a compatible version installed to run this project.
 
-#MySQL 
+# MySQL 
 
 download and execute the sql files in you MySQL workbench and change the persistence settings as necesary
